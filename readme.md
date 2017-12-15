@@ -33,7 +33,7 @@
 * Practice non-technical interview questions with another person record myself to gain an outside perspective of how I answer questions.
 `Rank: 5`
 * Purchase the Rails course through Udemy to refresh and learn new aspects of Rails.
-`Rank: 3`
+ `Rank: 3`
 
 #### Community Engagement
 
@@ -49,9 +49,11 @@
 `Rank: 5`
 * Connect with past Epicodus alumni and pick their brain for steps they took after Epicodus to land their first tech job and what they would do differently if they could.
 `Rank: 4`
-* Go to conferences for Ruby (Keep Ruby Weird), design (devsigner con), and others.  
+* Go to conferences for Ruby (Keep Ruby Weird), design (devsigner con), and others.
 `Rank: 3`
 
 ### :boom::boom::boom: Action Plan :boom::boom::boom:
 
 *My plan is to stay proactive and treat looking for work as a job itself. I will devote 8 hour days to researching companies to apply to, practicing whiteboard questions, and continue working on projects. Getting Bonilla Bucks (teacher application) out and in use would be a great experience and would look great as a portfolio piece. Connecting with the portland tech community will be a focus outside of the 8 hours and will be achieved by going to meetups, connections through Linkedin, and speaking with Epicodus alumni .*
+
+[Github for Portfolio commits](https://github.com/ngottlieb87/portfolio_rails)
